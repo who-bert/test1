@@ -1,0 +1,10 @@
+Sub test()
+
+Dim strOne as String
+
+strOne = "Hello World!"
+
+MsgBox strOne
+Debug.Print strOne
+
+End Sub
